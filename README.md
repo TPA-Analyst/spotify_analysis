@@ -45,6 +45,12 @@ The interactive dashboard includes several key views:
 - **Trend Visuals**: Dynamically displays peak and lowest listening periods over time.
 - **Quadrant Analysis**: Evaluates average listening time against track frequency to isolate the most engaging content.
 - **Granular Exporting**: Allows users to export specific, detailed data directly to stakeholders.
+<img width="1210" height="810" alt="image" src="https://github.com/user-attachments/assets/17bdcd24-13e6-4b42-b4b9-51038bbbfee5" />
+<img width="1207" height="806" alt="image" src="https://github.com/user-attachments/assets/7bafed45-28ab-447d-8891-357cc2fc7b3b" />
+<img width="1212" height="805" alt="image" src="https://github.com/user-attachments/assets/f4efee86-924b-4262-a5da-23bfee7e29a9" />
+
+
+
 
 ---
 
